@@ -1,2 +1,2 @@
-nombre = "boquita"
+nombre = "Argentina"
 print("vamos " + nombre)
